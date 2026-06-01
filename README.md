@@ -18,3 +18,5 @@ Töö eesmärk on tutvuda GitHubi, Git versioonihalduse ning IT teenuste korrald
 
 [Contribution
 guidelines for this project](Contributions.md)
+
+Tallinn 2026
