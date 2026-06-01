@@ -11,10 +11,10 @@ Käesolev repositoorium sisaldab IT korralduse aluste kursuse õppematerjale ja 
 Töö eesmärk on tutvuda GitHubi, Git versioonihalduse ning IT teenuste korraldamise põhimõtetega.
 
 - [T1 ITIL](ITIL.md)
-- [T2 Proccesses](T2 Proccesses.md)
-- [T3 Infra](T3 Infra.md)
-- [T4 LEAN](T4 LEAN.md)
-- [T5 Project Management](T5 Project Management.md)
+- [T2 Proccesses](Proccesses.md)
+- [T3 Infra](Infra.md)
+- [T4 LEAN](LEAN.md)
+- [T5 Project Management](ProjectManagement.md)
 
 [Contribution
 guidelines for this project](docs/CONTRIBUTING.md)
