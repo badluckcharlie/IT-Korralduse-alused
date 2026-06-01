@@ -17,4 +17,4 @@ Töö eesmärk on tutvuda GitHubi, Git versioonihalduse ning IT teenuste korrald
 - [T5 Project Management](T5-ProjectManagement.md)
 
 [Contribution
-guidelines for this project](contributions.md)
+guidelines for this project](Contributions.md)
